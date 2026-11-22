@@ -1,6 +1,6 @@
 # Sunrise IDE: downloads
 
-Downloads for **Sunrise IDE**, a code editor for Windows from [Sunovo Labs](https://sunovo-laboratories.onrender.com/). It works with **Sunshine**, our coding bot, and one click adds **Claude** next to it.
+Downloads for **Sunrise IDE**, a code editor for Windows from [Sunovo Labs](https://sunovo-laboratories.onrender.com/). It works with **Sunset**, our AI assistant, and one click adds **Claude** next to it.
 
 This repository holds the downloads only. There is no source code here.
 
@@ -28,7 +28,7 @@ All versions are on the [Releases](https://github.com/FlakeSap/sunrise-downloads
 
 ## What you should know
 
-* **Sunshine** is Sunovo Labs' coding bot. Open it from the sun icon on the left and sign in with Google (the same account as Sunset).
+* **Sunset** is Sunovo Labs' AI assistant, coding included. Open it from the sun icon on the left and sign in with Google (your Sunset account).
 * **Add Claude** is the button at the bottom of the window. It installs Anthropic's official Claude Code extension from Open VSX. The editor first asks whether you trust the publisher, Anthropic; choose **Trust Publisher & Install**. Then Claude asks you to sign in with your own Claude account. Sunrise IDE never handles that login.
 * Extensions come from Open VSX, not Microsoft's marketplace, so a few Microsoft-only extensions (such as Pylance) are not available.
 * There is no automatic update yet: download the new version and install it over the old one. Your settings and extensions are kept.
